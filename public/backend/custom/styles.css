@@ -1,0 +1,5 @@
+.table tbody td img{
+        width: 75px !important;
+        height: 30px !important;
+        cursor: pointer !important;
+}

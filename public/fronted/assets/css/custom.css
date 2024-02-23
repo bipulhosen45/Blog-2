@@ -1,0 +1,64 @@
+.sub-category{
+    padding-left: 20px;
+}
+.sub-category li{
+    padding: 2px 0 !important;
+    margin: 0!important;
+}
+.sub-category li a{
+    font-size: 14px !important;
+    color: grey !important;
+}
+.sub-category li a:hover{
+    color: #f48840 !important;
+}
+
+.readmore:hover{
+        color: #f48840 !important;
+        border: 1px solid #f48840!important;
+}
+.item img{
+    width: 100%;
+    height: 300px !important;
+    object-fit: cover;
+}
+.post-descriptions img{
+    width: 150px !important;
+}
+.blog-post .comments .content ul li .right-content{
+    margin-left: 180px!important;
+}
+
+.btn-success {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #f48840!important;
+    --bs-btn-border-color: #f48840!important;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #ea7221!important;
+    --bs-btn-hover-border-color: #ea7221!important;
+    --bs-btn-focus-shadow-rgb: 60,153,110;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #ea7221!important;
+    --bs-btn-active-border-color: #f48840!important;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #f48840!important;
+    --bs-btn-disabled-border-color: #f48840!important;
+}
+
+.banner_text{
+    width: 100% !important;
+    height: 100% !important;
+    opacity: 100px !important;
+}
+
+.owl-banner .owl-nav button span {
+    color: #000000 !important;
+    font-size: 36px;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    text-align: center;
+    line-height: 60px;
+    background-color: rgba(250,250,250,0.3) !important;
+}
